@@ -10,22 +10,31 @@ body a:hover {
 
 h1 {
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
     padding: 0px 40px 0px 40px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 p {
     padding: 0px 40px 0px 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    font-family: 'Montserrat', sans-serif;
 }
 
 ul {
     padding-left: 80px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .center {
@@ -53,6 +62,7 @@ button {
     margin-bottom: 10px;
     transition-duration: 0.4s;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-family: 'Montserrat', sans-serif;
 }
 
 button:hover {
