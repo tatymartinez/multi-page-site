@@ -37,6 +37,10 @@ ul {
     font-family: 'Montserrat', sans-serif;
 }
 
+.front-page-content img {
+    width: 20%;
+}
+
 .center {
     display: block;
     margin-left: auto;
@@ -226,16 +230,6 @@ footer a:hover {
     padding: 10px;
 }
 
-.decoration-posts {
-    padding: 10px;
-}
-
-.gift-posts {
-    background-color: #C1A399;
-    padding: 10px;
-}
-
-
 /* BLOG POST COLUMNS */
 
 .front-page-posts-3-columns {
@@ -268,4 +262,8 @@ footer a:hover {
 
 .freebies p {
     text-align: center;
+}
+
+.freebies img {
+    width: 20%;
 }
